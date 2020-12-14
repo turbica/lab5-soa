@@ -64,3 +64,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 738845 | [Víctor Martínez](https://github.com/viriannn) |[viriannn/lab5-soa](https://github.com/viriannn/lab5-soa/tree/test)     |        | 
 | 756308 | [Álvaro Santamaría](https://github.com/SanTa45zgz) |[SanTa45zgz/lab5-soa](https://github.com/SanTa45zgz/lab5-soa/tree/test)     |        | 
 | 758635 | [Daniel Huici Meseguer](https://github.com/Kifixo) |[Kifixo/lab5-soa](https://github.com/Kifixo/lab5-soa/tree/test)     | Throttle the route to avoid be banned by Twitter  | :gift: | 
+| 756308 | [Eduardo Ruiz](https://github.com/eduardoRuizC) |[edyardoRuizC/lab5-soa](https://github.com/eduardoRuizC/lab5-soa/tree/test)     |        | 
