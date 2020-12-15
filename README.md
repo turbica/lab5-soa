@@ -26,11 +26,11 @@ Done:
 - [Use Camel for providing a REST endpoint for queries](https://github.com/AlbertoCalvoRubio/lab5-soa/tree/gift) Alberto Calvo has learned that it is very easy to create http endpoints in Camel but remember: it is a pipeline and you must explicitly tell Camel what to do. :gift:
 - [Create an operator "-" to filter out tweets that contain a keyword](https://github.com/andrewknoll/lab5-soa/tree/test) Alberto Rubio has fought and won against Apache Camel documentation. :gift:  
 - [Use Camel for providing a WebSocked endpoint for queries](https://github.com/TheRealFreeman/lab5-soa/tree/gift) Enrique Ruiz has leaned how to setup a WebSocket enpoint with Camel, and (after a review) how to ensure that JSON responses are send back to the client and handled by JavaScript. 
+- [Throttle the route to avoid be banned by Twitter](https://github.com/Kifixo/lab5-soa/tree/test) Daniel Huici has leared a lesson complementary to Alberto Rubio's lesson: sometimes in Apache Camel it is very easy to do powerful things. :gift:
 
 Proposed:
 
 - [Enrich the response with moustache](https://camel.apache.org/components/latest/eips/content-enricher.html); remove moustache from the client.
-- [Throttle the route to avoid be banned by Twitter](https://camel.apache.org/components/latest/eips/throttle-eip.html)
 
 The link provides one of the possible approaches. You can use a different one.
 
@@ -59,3 +59,5 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 740491 | [Martín Gascón](https://github.com/MartinGasconL) |[MartinGasconL/lab5-soa](https://github.com/MartinGasconL/lab5-soa/tree/test)     |        | 
 | 761754 | [David Alloza Tejero](https://github.com/david-AT) |[david-AT/lab5-soa](https://github.com/david-AT/lab5-soa/tree/test)     |        | 
 | 738845 | [Víctor Martínez](https://github.com/viriannn) |[viriannn/lab5-soa](https://github.com/viriannn/lab5-soa/tree/test)     |        | 
+| 756308 | [Álvaro Santamaría](https://github.com/SanTa45zgz) |[SanTa45zgz/lab5-soa](https://github.com/SanTa45zgz/lab5-soa/tree/test)     |        | 
+| 758635 | [Daniel Huici Meseguer](https://github.com/Kifixo) |[Kifixo/lab5-soa](https://github.com/Kifixo/lab5-soa/tree/test)     | Throttle the route to avoid be banned by Twitter  | :gift: | 
