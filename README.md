@@ -25,11 +25,8 @@ Done:
 - [Use Camel for keeping a copy of responses in a database](https://github.com/rauljavierre/lab5-soa/tree/test) Raul Javierre has learned how an external database can be integrated in a Camel route quite easily. In additon, his work shows how to use docker-compose for building and running two nodes: the application and the dabase. :gift:
 - [Use Camel for providing a REST endpoint for queries](https://github.com/AlbertoCalvoRubio/lab5-soa/tree/gift) Alberto Calvo has learned that it is very easy to create http endpoints in Camel but remember: it is a pipeline and you must explicitly tell Camel what to do. :gift:
 - [Create an operator "-" to filter out tweets that contain a keyword](https://github.com/andrewknoll/lab5-soa/tree/test) Alberto Rubio has fought and won against Apache Camel documentation. :gift:  
+- [Use Camel for providing a WebSocked endpoint for queries](https://github.com/TheRealFreeman/lab5-soa/tree/gift) Enrique Ruiz has leaned how to setup a WebSocket enpoint with Camel, and (after a review) how to ensure that JSON responses are send back to the client and handled by JavaScript. 
 - [Throttle the route to avoid be banned by Twitter](https://github.com/Kifixo/lab5-soa/tree/test) Daniel Huici has leared a lesson complementary to Alberto Rubio's lesson: sometimes in Apache Camel it is very easy to do powerful things. :gift:
-
-In progress:
-
-- [Use Camel for providing a WebSocked endpoint for queries](https://camel.apache.org/components/latest/websocket-jsr356-component.html); a websocket client is required.
 
 Proposed:
 
@@ -55,7 +52,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 739202 | [luisgg98](https://github.com/luisgg98) |[luisgg98/lab5-soa](https://github.com/luisgg98/lab5-soa/tree/test)     |        | 
 | 757715 | [Hayk Kocharyan](https://github.com/hayk99) |  [hayk99/lab5-soa](https://github.com/hayk99/lab5-soa/tree/test)    |             |        | 
 | 755742 | [jtambo99](https://github.com/jtambo99) |[jtambo99/lab5-soa](https://github.com/jtambo99/lab5-soa/tree/test)     |        | 
-| 766685 | [Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab5-soa](https://github.com/TheRealFreeman/lab5-soa/tree/test) | Use Camel for providing a WebSocked endpoint for queries|    | 
+| 766685 | [Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab5-soa](https://github.com/TheRealFreeman/lab5-soa/tree/test) | [Use Camel for providing a WebSocked endpoint for queries](https://camel.apache.org/components/latest/websocket-jsr356-component.html)|:gift:| 
 | 756123 | [Rogelio Antonio Lacruz Mirallas](https://github.com/RogorStuff) |  [RogorStuff/lab5-soa](https://github.com/RogorStuff/lab5-soa/tree/test)| ||
 | 758325 | [Irene Fumanal Lacoma](https://github.com/irefu) |[irefu/lab5-soa](https://github.com/irefu/lab5-soa/tree/test)     |        | 
 | 740491 | [José Ignacio Hernández](https://github.com/740491) |[740491/lab5-soa](https://github.com/740491/lab5-soa/tree/test)     |        |
