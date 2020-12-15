@@ -55,7 +55,6 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 766685 | [Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab5-soa](https://github.com/TheRealFreeman/lab5-soa/tree/test) | [Use Camel for providing a WebSocked endpoint for queries](https://camel.apache.org/components/latest/websocket-jsr356-component.html)|:gift:| 
 | 756123 | [Rogelio Antonio Lacruz Mirallas](https://github.com/RogorStuff) |  [RogorStuff/lab5-soa](https://github.com/RogorStuff/lab5-soa/tree/test)| ||
 | 758325 | [Irene Fumanal Lacoma](https://github.com/irefu) |[irefu/lab5-soa](https://github.com/irefu/lab5-soa/tree/test)     |        | 
-| 740491 | [Martín Gascón](https://github.com/MartinGasconL) |[MartinGasconL/lab5-soa](https://github.com/MartinGasconL/lab5-soa/tree/test)     |        | 
 | 740491 | [José Ignacio Hernández](https://github.com/740491) |[740491/lab5-soa](https://github.com/740491/lab5-soa/tree/test)     |        |
 | 740491 | [Martín Gascón](https://github.com/MartinGasconL) |[MartinGasconL/lab5-soa](https://github.com/MartinGasconL/lab5-soa/tree/test)     |        | 
 | 761754 | [David Alloza Tejero](https://github.com/david-AT) |[david-AT/lab5-soa](https://github.com/david-AT/lab5-soa/tree/test)     |        | 
