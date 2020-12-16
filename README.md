@@ -28,13 +28,13 @@ Done:
 - [Use Camel for providing a WebSocked endpoint for queries](https://github.com/TheRealFreeman/lab5-soa/tree/gift) Enrique Ruiz has leaned how to setup a WebSocket enpoint with Camel, and (after a review) how to ensure that JSON responses are send back to the client and handled by JavaScript. 
 - [Throttle the route to avoid be banned by Twitter](https://github.com/Kifixo/lab5-soa/tree/test) Daniel Huici has leared a lesson complementary to Alberto Rubio's lesson: sometimes in Apache Camel it is very easy to do powerful things. :gift:
 
-Proposed:
+In progress:
 
 - [Enrich the response with moustache](https://camel.apache.org/components/latest/eips/content-enricher.html); remove moustache from the client.
 
-The link provides one of the possible approaches. You can use a different one.
+Proposed:
 
-The possibilities of Camel are endless; you can propose your idea for a :gift:.
+- **The possibilities of Camel are endless; you can propose your idea for a :gift:.**
 
 Manifest your intention first by a PR updating this `README.md` with your goal.
 If you desist of your goal, release it by a PR so other fellow can try it. 
